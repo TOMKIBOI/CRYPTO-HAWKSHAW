@@ -1,4 +1,4 @@
-export type Currencies = 'EUR' | 'USD'
+export type Currencies = 'EUR' | 'USD' | 'KSH'
 
 export type CoinContextType = {
   data: CoinState
