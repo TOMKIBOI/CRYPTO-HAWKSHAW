@@ -9,7 +9,7 @@ export default function App() {
     <Layout>
       <main className="w-full max-w-4xl px-2 mx-auto sm:px-0">
         <h1 className="mb-4 text-2xl font-semibold text-center">
-          Crypto Tracker
+          Crypto Hawkshaw
         </h1>
 
         <section className="space-y-4 mb-4">
