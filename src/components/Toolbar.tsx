@@ -11,7 +11,7 @@ import { Currencies } from '../types/CoinTypes'
 
 export default function Toolbar() {
   const { currency, updateCurrency } = useContext(CoinContext)
-  const currencies: Currencies[] = ['EUR', 'USD']
+  const currencies: Currencies[] = ['EUR', 'USD', 'KSH']
 
   return (
     <nav className="flex justify-end w-full max-w-4xl gap-4 p-2 mx-auto font-medium">
