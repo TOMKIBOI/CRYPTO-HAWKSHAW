@@ -23,7 +23,7 @@ Detailed Modal: Users can click on the coin logo to open a modal that displays a
 
 ## Demo
 
-You can see a live demo of the CryptoTrack application [right here](https://tomkiboi.github.io/CRYPTO-HAWKSHAW/).
+You can see a live demo of the CryptoHawkshaw application [right here](https://tomkiboi.github.io/CRYPTO-HAWKSHAW/).
 
 ![page-showcase](app-showcase/app-showcase-1.gif)
 
